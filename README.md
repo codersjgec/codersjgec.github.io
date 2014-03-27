@@ -1,7 +1,4 @@
-codersjgec.github.io
-====================
+Coders Github Microsite
+=============
 
-Coders Jgec microsite
-
-
-##Open to Contribution##
+Coders
