@@ -1,0 +1,14 @@
+This zip file contains optimized resources for http://codersjgec.github.io/. The optimized resources are listed below in the format of: 
+filename: url
+
+Note: We only include up to 10 MB of optimized contents. If the
+optimized contents of your page are larger than 10 MB, we list them in
+this file too, with 'NOT INCLUDED' to indicate those URLs require
+further optimization.
+
+css/main.css: http://codersjgec.github.io/assets/css/main.css
+js/main.js: http://codersjgec.github.io/assets/js/main.js
+image/logo.png: http://codersjgec.github.io/assets/images/logo.png
+image/manna.jpg: http://codersjgec.github.io/assets/images/manna.jpg
+image/Logo_of_JGEC.jpg: http://codersjgec.github.io/assets/images/Logo_of_JGEC.jpg
+image/vipnet_logo.jpg: http://codersjgec.github.io/assets/images/vipnet_logo.jpg
